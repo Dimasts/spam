@@ -44,17 +44,17 @@ clear
 mainmenu() {
     echo -e -n "\033[1;36mPilih ngab = ";read pil
     if [ $pil == "1" ];then
-    git clone https://github.com/Mister-AM/SpCall &> /dev//null
+    git clone https://github.com/Dimasts/SpCall &> /dev//null
     cd SpCall
     python cus.py
     echo "[√] SpamCall berhasil"
     elif [ $pil == "2" ];then
-    git clone https://github.com/Mister-AM/SpamSms_v2 &> /dev//null
+    git clone https://github.com/Dimasts/SpamSms_v2 &> /dev//null
     cd SpamSms_v2
     python prank.py
     echo "[√] SpamSms berhasil"
     elif [ $pil == "3" ];then
-    git clone https://github.com/Mister-AM/spamwa_v2 &> /dev//null
+    git clone https://github.com/Dimasts/spamwa_v2 &> /dev//null
     cd spamwa_v2
     python go.py
     echo "[√] SpamWA berhasil di jalankan"
