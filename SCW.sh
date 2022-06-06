@@ -22,10 +22,10 @@ clear
    echo -e ""  $putih "╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝"  $birumida "   ╚══════╝"  $putih " ╚══╝   ╚══╝"  $biru "  ╚═════╝"
    echo
    echo -e $kuning" ╔═══════════════════════════════════════════════╗"
-   echo -e $kuning" ║"   "\033[1;36mAuther    : MisterAM                      "$kuning"    ║"
-   echo -e $kuning" ║"   "\033[1;36mTeam      : Dark Cyber                    "$kuning"    ║"
-   echo -e $kuning" ║"   "\033[1;36mChanel YT : MisterAM                      "$kuning"    ║"
-   echo -e $kuning" ║"   "\033[1;36mGithub    : https://github.com/Mister-AM  "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mAuther    : Dimas Ts                      "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mTeam      : DUTA RANDA                    "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mChanel YT : Dimas Ts                      "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mGithub    : https://github.com/Dimasts  "$kuning"    ║"
    echo -e $kuning" ╚═══════════════════════════════════════════════╝"
 
    echo -e $putih
