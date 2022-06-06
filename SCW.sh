@@ -25,7 +25,7 @@ clear
    echo -e $kuning" ║"   "\033[1;36mAuther    : Dimas Ts                      "$kuning"    ║"
    echo -e $kuning" ║"   "\033[1;36mTeam      : DUTA RANDA                    "$kuning"    ║"
    echo -e $kuning" ║"   "\033[1;36mChanel YT : Dimas Ts                      "$kuning"    ║"
-   echo -e $kuning" ║"   "\033[1;36mGithub    : https://github.com/Dimasts  "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mGithub    : https://github.com/Dimasts    "$kuning"    ║"
    echo -e $kuning" ╚═══════════════════════════════════════════════╝"
 
    echo -e $putih
