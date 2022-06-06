@@ -8,11 +8,11 @@ Link termux : https://f-droid.org/en/packages/com.termux/
 
 # bahan-bahan
 
-Install termux
+=> Install termux
  
-Buka termux
+=> Buka termux
 
-Install cmd dibawah ini
+=> Install cmd dibawah ini
 
 pkg update && pkg upgrade -y
 
